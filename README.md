@@ -1,4 +1,10 @@
-# EXPERIENCE-ART-THROUGH-SOUND-WEB-APP
+# ArtTunes
+
+***Hackathon Submission for ShellHacks 2020***
+
+## Inspiration
+Grace came up with the idea when contemplating the fact that so many people are not able to appreciate art through the sense of sight.
+
 ## What it does
 The Art Tunes web app receives a user's image and converts the image to sound so that those who are blind can experience art and paintings through sound.
 
