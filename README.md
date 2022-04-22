@@ -1,6 +1,5 @@
 # ArtTunes
 
-***Hackathon Submission for ShellHacks 2020***
 
 ## Inspiration
 Grace came up with the idea when contemplating the fact that so many people are not able to appreciate art through the sense of sight.
